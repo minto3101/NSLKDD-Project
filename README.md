@@ -3,10 +3,13 @@ This is an ongoing project to perform dimensionality reduction over the NSLKDD d
 
 The dataset has been obtained from 
 https://www.unb.ca/cic/datasets/nsl.html
-It contains 43 Features
 
-I have used the 20% subset of the datatset which contains 25,192 instances
+I have used the 20% subset of the datatset which contains 25,192 instances and 43 features
 
-I have started by creating a Logistic Rgeression Model for the dataset using Scikit Learn Library.
-The dataset is being classified into 2 classes: Normal and Anomaly 
+The training and testing datasets used are in two separate files, "NSLKDD Train for Classification" and "NSLKDD Test for Classification" respectively.
+
+I have started by creating a classification model for the dataset using Logistic Regression
+
+The dataset is being classified into 2 classes: Normal and Anomaly. 
+
 Basic Data manipulation and preprocessing has been performed by using Pandas Library.
