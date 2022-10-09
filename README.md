@@ -6,7 +6,8 @@ https://www.unb.ca/cic/datasets/nsl.html
 
 I have used the 20% subset of the datatset which contains 25,192 instances and 43 features
 
-The training and testing datasets used are in two separate files, "NSLKDD Train for Classification" and "NSLKDD Test for Classification" respectively.
+The above link provides with 2 separate datasets for testing and training, so I have not used the train_test_split() function.
+The datasets can be found in the "Datasets" folder
 
 I have started by creating a classification model for the dataset using Logistic Regression
 
