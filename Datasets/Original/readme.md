@@ -1,3 +1,5 @@
-These are the original datasets, they are not labelled
+These are the original datasets downloaded from the website
 
-The labelled ones are in the other 3 folders
+They are not labelled
+
+The labelled datasets are in the other 3 folders
